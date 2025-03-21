@@ -441,5 +441,3 @@ if __name__ == "__main__":
     
     print(f"Generated sequence length: {generated_ids.shape[1]}")
     
-    # Для реального использования потребуется токенизатор
-    # из библиотеки transformers для декодирования результата
