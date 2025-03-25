@@ -23,8 +23,8 @@ A powerful language model implementation with enhanced reasoning, memory, and ta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TaskSolvingLLM.git
-   cd TaskSolvingLLM
+   git clone https://github.com/yourusername/Fast_LLM.git
+   cd Fast_LLM
    ```
 
 2. Install dependencies:
