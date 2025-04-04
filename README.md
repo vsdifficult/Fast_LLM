@@ -1,4 +1,4 @@
-# TaskSolvingLLM
+# Fast LLM
 
 A powerful language model implementation with enhanced reasoning, memory, and task-solving capabilities. This project provides a complete implementation of a transformer-based language model that can understand user queries, solve various tasks, and remember past interactions.
 
